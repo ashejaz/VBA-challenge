@@ -1,10 +1,12 @@
-# VBA-challenge
+# Overview
 
 For this assignment, 3 years worth of stock market data was provided from 2018 to 2020 for analysis of trends.
 
 I created a VBA script which, for each year simultaneously, created 2 summary tables. In the first table (Columns I-L), the script calculated yearly change, % change and total stock volume for each unique ticker value found. In the second table (Columns O-P), the script returned the tickers with the greatest % increase, greatest % decrease and greatest total volume as well as their respective values.
 
 Conditional formatting was used in the 'Yearly Change' and 'Percentage change' columns to highlight positive change in green and negative change in red.
+
+# File Access
 
 The script used can be found in the file titled 'VBA_script'.
 
