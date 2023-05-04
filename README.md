@@ -15,3 +15,5 @@ The results for 2018 can be found in the png titled '2018_results.png'.
 The results for 2019 can be found in the png titled '2019_results.png'.
 
 The results for 2020 can be found in the png titled '2020_results.png'.
+
+Finally, the Excel file used is titled 'Multiple_year_stock_data_final.xlsm'.
